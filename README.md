@@ -2,8 +2,6 @@
 
 
 
-
-
 # 🚀 Live Demo
 
 
@@ -12,10 +10,7 @@
 
 
 
-
 The **Visual Form Designer** is an interactive web application that allows users to create custom forms by adding, editing, and managing form elements dynamically. It provides a user-friendly interface to design forms visually without writing code.
-
-
 
 
 
@@ -32,8 +27,6 @@ The **Visual Form Designer** is an interactive web application that allows users
 
 
 
-
-
 # 🛠️ Technologies Used
 
 
@@ -43,17 +36,19 @@ The **Visual Form Designer** is an interactive web application that allows users
 
 
 
-
 #📂 Folder Structure
 
 
 
-
 📁 Project Root
+
  ┣ 📜 index.html      # Main HTML file
+
+ 
  ┣ 📜 styles.css      # Styling for the UI
+
+ 
  ┗ 📜 script.js       # JavaScript logic for form designing
-```
 
 
 
