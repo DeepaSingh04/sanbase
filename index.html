@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Form Designer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h3>Visual Form </h3>
+            <button class="add-element" data-type="input">Input +</button>
+            <button class="add-element" data-type="select">Select +</button>
+            <button class="add-element" data-type="textarea">Textarea +</button>
+            <button class="add-element" data-type="checkbox">Checkbox +</button>
+        </div>
+
+        <div class="form-builder">
+            <h2>Details</h2>
+            <div id="form-preview" class="dropzone"></div>
+            <button id="save-btn">Save</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
